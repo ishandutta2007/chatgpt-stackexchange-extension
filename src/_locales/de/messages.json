@@ -1,8 +1,8 @@
 {
   "appName": {
-    "message": "ArxivGPT"
+    "message": "StackexchangeGPT"
   },
   "appDesc": {
-    "message": "Fassen Sie ein arXiv-Papier zusammen und liefern Sie wichtige Erkenntnisse."
+    "message": "Fassen Sie ein Stackexchange zusammen und liefern Sie wichtige Erkenntnisse."
   }
 }

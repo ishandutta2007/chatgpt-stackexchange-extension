@@ -1,8 +1,8 @@
 {
   "appName": {
-    "message": "ArxivGPT"
+    "message": "StackexchangeGPT"
   },
   "appDesc": {
-    "message": "Rezumați și oferiți perspectivă cheie pentru orice articol arxiv"
+    "message": "Rezumați și oferiți perspectivă cheie pentru orice articol Stackexchange"
   }
 }

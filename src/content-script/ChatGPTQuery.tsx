@@ -82,6 +82,7 @@ function ChatGPTQuery(props: Props) {
 
   useEffect(() => {
     if (status === 'success') {
+      console.log('answer', answer)
       captureEvent('show_answer', { host: location.host, language: navigator.language })
     }
   }, [props.question, status])
@@ -141,7 +142,7 @@ function ChatGPTQuery(props: Props) {
     return (
       <div className="markdown-body gpt-markdown" id="gpt-answer" dir="auto">
         <div className="gpt-header">
-          <span className="font-bold">arXivGPT</span>
+          <span className="font-bold">StackexchangeGPT</span>
           <span className="cursor-pointer leading-[0]" onClick={openOptionsPage}>
             <GearIcon size={14} />
           </span>
@@ -242,7 +243,7 @@ function ChatGPTQuery(props: Props) {
     )
   }
 
-  return <p className="text-[#b6b8ba] animate-pulse">Waiting for ChatGPT summarize...</p>
+  return <p className="text-[#b6b8ba] animate-pulse">Waiting for ChatGPTs resolution...</p>
 }
 
 export default memo(ChatGPTQuery)

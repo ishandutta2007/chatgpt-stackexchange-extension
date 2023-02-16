@@ -25,10 +25,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://arxiv.org/*",
-        "https://www.biorxiv.org/content/*",
-        "https://pubmed.ncbi.nlm.nih.gov/*",
-        "https://ieeexplore.ieee.org/document/*"
+        "https://stackoverflow.com/questions/*"
       ],
       "js": ["content-script.js"],
       "css": ["content-script.css"]

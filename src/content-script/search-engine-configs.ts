@@ -13,28 +13,10 @@ export const config: Record<string, SearchEngine> = {
     sidebarContainerQuery: ['#rhs'],
     appendContainerQuery: ['#rcnt'],
   },
-  arxiv: {
+  stackoverflow: {
     inputQuery: ["input[name='query']"],
-    bodyQuery: ['#abs'],
-    sidebarContainerQuery: ['div[class="metatable"]'],
-    appendContainerQuery: [],
-  },
-  biorxiv: {
-    inputQuery: ["input[name='query']"],
-    bodyQuery: ['div[class="inside"]'],
-    sidebarContainerQuery: ['#panels-ajax-tab-container-highwire_article_tabs'],
-    appendContainerQuery: [],
-  },
-  pubmed: {
-    inputQuery: [],
-    bodyQuery: ['#abstract'],
-    sidebarContainerQuery: ['#copyright'],
-    appendContainerQuery: [],
-  },
-  ieeexplore: {
-    inputQuery: [],
-    bodyQuery: ['div.abstract-text.row div.u-mb-1 div'],
-    sidebarContainerQuery: ['div.u-pb-1.stats-document-abstract-publishedIn'],
+    bodyQuery: ['div[class="s-prose js-post-body"]'],
+    sidebarContainerQuery: ['#sidebar'],
     appendContainerQuery: [],
   },
 }

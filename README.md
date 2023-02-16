@@ -1,12 +1,16 @@
-# arXivGPT
+# StackexchangeGPT
 
-[link-chrome]: https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh?hl=en&authuser=0 'Chrome Web Store'
+[download-link]: https://chrome.google.com/webstore/detail/stackexchangegpt/fbbfpcjhnnklhmncjickdipdlhoddjoh?hl=en&authuser=0 '.crx download'
 
 [<img src="https://user-images.githubusercontent.com/3750161/214147732-c75e96a4-48a4-4b64-b407-c2402e899a75.PNG" height="67" alt="Chrome" valign="middle">][link-chrome]
 
 ## Screenshot
 
 <img width="1418" alt="image" src="https://user-images.githubusercontent.com/901975/217130285-20d0bf67-e9a8-46ca-9d9d-f49b42515a7d.png">
+
+## Avaiable Sites (TBA or TBA as a configuration feature)
+* "https://stackexchange.com/*",
+* "https://stackoverflow.com/*",
 
 ## Custom Prompt
 You can change the prompt.
