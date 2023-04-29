@@ -2,7 +2,6 @@
 
 [download-link]: https://github.com/ishandutta2007/chatgpt-stackexchange-extension/blob/main/packaged_crx/chromium.crx '.crx download'
 
-[<img src="https://user-images.githubusercontent.com/3750161/214147732-c75e96a4-48a4-4b64-b407-c2402e899a75.PNG" height="67" alt="Chrome" valign="middle">][link-chrome]
 
 ## Screenshot
 
