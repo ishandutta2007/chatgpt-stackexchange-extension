@@ -1,6 +1,6 @@
 # StackexchangeGPT
 
-[download-link](https://github.com/ishandutta2007/chatgpt-stackexchange-extension/blob/main/packaged_crx/chromium.crx)
+[direct download .crx file for chrome](https://github.com/ishandutta2007/chatgpt-stackexchange-extension/blob/main/packaged_crx/chromium.crx) or [Build from source](https://github.com/ishandutta2007/chatgpt-stackexchange-extension#build-from-source)
 
 
 ## Screenshot
