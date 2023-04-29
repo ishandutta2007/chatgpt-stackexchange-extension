@@ -14,7 +14,7 @@
 
 ## Custom Prompt
 You can change the prompt.
-<img width="1031" alt="image" src="https://user-images.githubusercontent.com/901975/217131081-d5487c3f-cb5c-46f4-be21-e4f1a22e9fce.png">
+<img width="1031" alt="image" src="https://raw.githubusercontent.com/ishandutta2007/chatgpt-stackexchange-extension/main/screenshots/prompt.png">
 
 ## Troubleshooting
 
